@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Zayan Khan</h1>
 <h3 align="center">Frontend Developer Intern at Dijination | Crafting Interactive Web Experiences</h3>
 
@@ -21,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayankhan99&show_icons=true&locale=en" alt="zayankhan99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayankhan99&" alt="zayankhan99" /></p>
+</div>
