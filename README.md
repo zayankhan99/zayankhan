@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Html,Css,Bootstrap,Javascript**
+- 💬 Ask me about **Html,Css,Bootstrap,Javascript,Tailwind,React,Next.js**
 
-- 📫 How to reach me **zk9596492@gmail.com**
+- 📫 How to reach me **zayan.shoaib13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
