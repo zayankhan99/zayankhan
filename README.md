@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1 align="center">Hi 👋, I'm Zayan Khan</h1>
 <h3 align="center">Frontend Developer Intern at Dijination | Crafting Interactive Web Experiences</h3>
 
